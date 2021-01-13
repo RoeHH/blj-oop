@@ -1,0 +1,10 @@
+C:\Users\Rouven\git\blj-oop\AlterRechner\AlterRechner\bin\Debug\AlterRechner.exe.config
+C:\Users\Rouven\git\blj-oop\AlterRechner\AlterRechner\bin\Debug\AlterRechner.exe
+C:\Users\Rouven\git\blj-oop\AlterRechner\AlterRechner\bin\Debug\AlterRechner.pdb
+C:\Users\Rouven\git\blj-oop\AlterRechner\AlterRechner\obj\Debug\AlterRechner.csprojAssemblyReference.cache
+C:\Users\Rouven\git\blj-oop\AlterRechner\AlterRechner\obj\Debug\AlterRechner.Form1.resources
+C:\Users\Rouven\git\blj-oop\AlterRechner\AlterRechner\obj\Debug\AlterRechner.Properties.Resources.resources
+C:\Users\Rouven\git\blj-oop\AlterRechner\AlterRechner\obj\Debug\AlterRechner.csproj.GenerateResource.cache
+C:\Users\Rouven\git\blj-oop\AlterRechner\AlterRechner\obj\Debug\AlterRechner.csproj.CoreCompileInputs.cache
+C:\Users\Rouven\git\blj-oop\AlterRechner\AlterRechner\obj\Debug\AlterRechner.exe
+C:\Users\Rouven\git\blj-oop\AlterRechner\AlterRechner\obj\Debug\AlterRechner.pdb
