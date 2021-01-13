@@ -1,0 +1,10 @@
+C:\Users\Rouven\git\blj-oop\RechtecksFlächeBerechenen\RechtecksFlächeBerechenen\bin\Debug\RechtecksFlächeBerechenen.exe.config
+C:\Users\Rouven\git\blj-oop\RechtecksFlächeBerechenen\RechtecksFlächeBerechenen\bin\Debug\RechtecksFlächeBerechenen.exe
+C:\Users\Rouven\git\blj-oop\RechtecksFlächeBerechenen\RechtecksFlächeBerechenen\bin\Debug\RechtecksFlächeBerechenen.pdb
+C:\Users\Rouven\git\blj-oop\RechtecksFlächeBerechenen\RechtecksFlächeBerechenen\obj\Debug\RechtecksFlächeBerechenen.Properties.Resources.resources
+C:\Users\Rouven\git\blj-oop\RechtecksFlächeBerechenen\RechtecksFlächeBerechenen\obj\Debug\RechtecksFlächeBerechenen.csproj.GenerateResource.cache
+C:\Users\Rouven\git\blj-oop\RechtecksFlächeBerechenen\RechtecksFlächeBerechenen\obj\Debug\RechtecksFlächeBerechenen.csproj.CoreCompileInputs.cache
+C:\Users\Rouven\git\blj-oop\RechtecksFlächeBerechenen\RechtecksFlächeBerechenen\obj\Debug\RechtecksFlächeBerechenen.exe
+C:\Users\Rouven\git\blj-oop\RechtecksFlächeBerechenen\RechtecksFlächeBerechenen\obj\Debug\RechtecksFlächeBerechenen.pdb
+C:\Users\Rouven\git\blj-oop\RechtecksFlächeBerechenen\RechtecksFlächeBerechenen\obj\Debug\RechtecksFlächeBerechenen.csprojAssemblyReference.cache
+C:\Users\Rouven\git\blj-oop\RechtecksFlächeBerechenen\RechtecksFlächeBerechenen\obj\Debug\RechtecksFlächeBerechenen.Form1.resources

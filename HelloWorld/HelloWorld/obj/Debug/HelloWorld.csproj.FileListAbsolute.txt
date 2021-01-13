@@ -1,0 +1,10 @@
+C:\Users\Rouven\git\blj-oop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Rouven\git\blj-oop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Rouven\git\blj-oop\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Rouven\git\blj-oop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Rouven\git\blj-oop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\Rouven\git\blj-oop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\Rouven\git\blj-oop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.cache
+C:\Users\Rouven\git\blj-oop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Rouven\git\blj-oop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Rouven\git\blj-oop\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
