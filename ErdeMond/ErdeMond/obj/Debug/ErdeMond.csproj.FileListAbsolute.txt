@@ -1,0 +1,10 @@
+C:\Users\Rouven\git\blj-oop\ErdeMond\ErdeMond\bin\Debug\ErdeMond.exe.config
+C:\Users\Rouven\git\blj-oop\ErdeMond\ErdeMond\bin\Debug\ErdeMond.exe
+C:\Users\Rouven\git\blj-oop\ErdeMond\ErdeMond\bin\Debug\ErdeMond.pdb
+C:\Users\Rouven\git\blj-oop\ErdeMond\ErdeMond\obj\Debug\ErdeMond.csprojAssemblyReference.cache
+C:\Users\Rouven\git\blj-oop\ErdeMond\ErdeMond\obj\Debug\ErdeMond.Form1.resources
+C:\Users\Rouven\git\blj-oop\ErdeMond\ErdeMond\obj\Debug\ErdeMond.Properties.Resources.resources
+C:\Users\Rouven\git\blj-oop\ErdeMond\ErdeMond\obj\Debug\ErdeMond.csproj.GenerateResource.cache
+C:\Users\Rouven\git\blj-oop\ErdeMond\ErdeMond\obj\Debug\ErdeMond.csproj.CoreCompileInputs.cache
+C:\Users\Rouven\git\blj-oop\ErdeMond\ErdeMond\obj\Debug\ErdeMond.exe
+C:\Users\Rouven\git\blj-oop\ErdeMond\ErdeMond\obj\Debug\ErdeMond.pdb
