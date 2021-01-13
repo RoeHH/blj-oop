@@ -8,6 +8,7 @@ namespace Tannenbaum
 {
     class Tanne
     {
+
         private int stammbreite;
         private int stammhöhe;
         private int kronnenhoehe;
@@ -52,9 +53,9 @@ namespace Tannenbaum
                     }
                 }
 
-
         }
         
+
         /*
         public int Stammbreite
         {

@@ -26,7 +26,7 @@ namespace ErdeMond
             double timeNeededInHours = this.distanceEarthMoonInKM / this.speedInKMpH;
             if (this.indays)
             {
-                double timeNeededInDays = timeNeededInHours * 24;
+                double timeNeededInDays = timeNeededInHours / 24;
                 this.output.Text = timeNeededInDays.ToString() + " Days";
             }
             else
