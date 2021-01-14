@@ -12,7 +12,8 @@ namespace FifoPuffer
 
         private readonly int _queueLength = 2;
         private int [] queue;
-        private int front = -1, rear = -1;
+        private int front = -1;
+        private int rear = -1;
 
         public FIFO(int queueLength)
         {
@@ -44,14 +45,15 @@ namespace FifoPuffer
                 return 1.5;
             }
             else{
-                return queue[front];
-                front = front + 1;
+                int temp = queue[front];
+                front += 1;
         
                 //Only happens when the last element was dequeued
-                if(front > _queueLength-1){
+                if(front > rear){
 	                front = -1;
 	                rear = -1;
                 }
+                return temp;
             }
         }
 

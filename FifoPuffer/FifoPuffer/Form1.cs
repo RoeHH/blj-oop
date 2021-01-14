@@ -39,9 +39,9 @@ namespace FifoPuffer
             string temp = _fifo.Get().ToString();
             if(temp=="1.5")
             {
+                outPut.Text = "";
                 MessageBox.Show("Queueueue Empty");
                 return;
-                outPut.Text = "";
             }
             outPut.Text = temp;
         }
@@ -51,9 +51,9 @@ namespace FifoPuffer
             string temp = _fifo.GetAll();
             if(temp==null)
             {
+                outPut.Text = "";
                 MessageBox.Show("Queueueue Empty");
                 return;
-                outPut.Text = "";
             }
             outPut.Text = temp;
         }
