@@ -29,6 +29,7 @@ namespace AutoSim
         public void UpdateCounters()
         {
                 GeschwindigkeitOutPut.Text = auto.AktueleGeschwindigkeit.ToString();
+                auto.UpdateGang();
                 GangOutPut.Text = auto.AktuelerGang.ToString();
         }
         
@@ -83,15 +84,17 @@ namespace AutoSim
         {
             if (auto != null)
             {
-                Task.Run(() => auto.Bremse());
+                auto.Bremst = true;
                 bremseButton.BackColor = System.Drawing.Color.Black;
                 bremseButton.ForeColor = System.Drawing.Color.White;
-                while (auto.bremst)
+                while (auto.Bremst)
                 {
-                    Thread.Sleep(200);
+                    auto.Bremse();
                     UpdateCounters();
                     Application.DoEvents();
+                    Thread.Sleep(200);
                 }
+                
             }
         }
 
@@ -99,7 +102,7 @@ namespace AutoSim
         {
             if (auto != null)
             {
-                auto.StopBremse();
+                auto.Bremst = false;
                 bremseButton.BackColor = System.Drawing.Color.White;
                 bremseButton.ForeColor = System.Drawing.Color.Black;
             }
@@ -109,9 +112,16 @@ namespace AutoSim
         {
             if (auto != null)
             {
-                Task.Run(() => auto.GibGas());
+                auto.GibtGas = true;
                 bremseButton.BackColor = System.Drawing.Color.Black;
                 bremseButton.ForeColor = System.Drawing.Color.White;
+                while (auto.GibtGas)
+                {
+                    auto.GibGas();
+                    UpdateCounters();
+                    Application.DoEvents();
+                    Thread.Sleep(100);
+                }
             }
         }
 
@@ -119,7 +129,7 @@ namespace AutoSim
         {
             if (auto != null)
             {
-                auto.StopGas();
+                auto.GibtGas = false;
                 bremseButton.BackColor = System.Drawing.Color.White;
                 bremseButton.ForeColor = System.Drawing.Color.Black;
             }

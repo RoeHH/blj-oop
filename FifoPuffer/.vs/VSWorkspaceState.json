@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FifoPuffer"
+    "\\FifoPuffer",
+    "\\FifoPuffer\\obj"
   ],
   "SelectedNode": "\\FifoPuffer\\FIFO.cs",
   "PreviewInSolutionExplorer": false

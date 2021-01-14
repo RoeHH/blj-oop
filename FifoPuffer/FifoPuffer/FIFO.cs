@@ -11,52 +11,64 @@ namespace FifoPuffer
     {
 
         private readonly int _queueLength = 2;
-        private Queue<int> _queue = new Queue<int>();
+        private int [] queue;
+        private int front = -1, rear = -1;
 
         public FIFO(int queueLength)
         {
             _queueLength = queueLength;
+            queue = new int [_queueLength];
         }
 
-        public void Put(int newItem)
+
+        public bool Put(int newItem)
         {
-            if (_queue.Count == _queueLength)
-            {
-                MessageBox.Show("Queueueue Full");
+            if(rear == _queueLength-1){
+                 return false;
             }
-            else
-            {
-                _queue.Enqueue(newItem);
+            else{
+                if(front == -1){
+                    front = 0;
+                }
+        
+                rear = rear + 1;
+                queue[rear] = newItem;
+                return true;
+            }
+
+        }
+
+        public double Get()
+        {
+            if(front == -1){
+                return 1.5;
+            }
+            else{
+                return queue[front];
+                front = front + 1;
+        
+                //Only happens when the last element was dequeued
+                if(front > _queueLength-1){
+	                front = -1;
+	                rear = -1;
+                }
             }
         }
-        public int Get()
-        {
-            if(_queue.Count == 0)
-            {
-                MessageBox.Show("Queueueue Empty");
-                return 0;
-            }
-            else
-            {
-                return _queue.Dequeue();
-            }
-        }
+
         public string GetAll()
         {
-            if (_queue.Count == 0)
-            {
-                MessageBox.Show("Queueueue Empty");
-                return "";
-            }
-            else
-            {
+            if(rear == -1)
+                return null;
+            else{
                 string output = "";
-                while (_queue.Count > 0)
-                {
-                    output += $"{_queue.Dequeue()}, ";
-                }
+                int i;        
+                for(i = front; i <= rear; i++)
+                     output += $"{queue[i]}, ";
                 return output;
             }
         }
+        //https://prepinsta.com/data-structures/implementation-of-queues-using-arrays/
+        //Da ich keine Queueueue benutzen durfte übernahm ich eine Array Queueue von hier
+
     }
 }

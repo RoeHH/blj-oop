@@ -27,17 +27,35 @@ namespace FifoPuffer
 
         private void putButton_Click(object sender, EventArgs e)
         {
-            _fifo.Put(Convert.ToInt32(inPut.Value));
+            bool temp = _fifo.Put(Convert.ToInt32(inPut.Value));
+            if(!temp)
+            {
+                MessageBox.Show("Queueueue Full");
+            }
         }
 
         private void getButton_Click(object sender, EventArgs e)
         {
-            outPut.Text = _fifo.Get().ToString();
+            string temp = _fifo.Get().ToString();
+            if(temp=="1.5")
+            {
+                MessageBox.Show("Queueueue Empty");
+                return;
+                outPut.Text = "";
+            }
+            outPut.Text = temp;
         }
 
         private void getAllButton_Click(object sender, EventArgs e)
         {
-            outPut.Text = _fifo.GetAll();
+            string temp = _fifo.GetAll();
+            if(temp==null)
+            {
+                MessageBox.Show("Queueueue Empty");
+                return;
+                outPut.Text = "";
+            }
+            outPut.Text = temp;
         }
     }
 }
