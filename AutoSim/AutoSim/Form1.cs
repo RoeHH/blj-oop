@@ -92,7 +92,7 @@ namespace AutoSim
                     auto.Bremse();
                     UpdateCounters();
                     Application.DoEvents();
-                    Thread.Sleep(200);
+                    Thread.Sleep(100);
                 }
                 
             }
@@ -113,8 +113,8 @@ namespace AutoSim
             if (auto != null)
             {
                 auto.GibtGas = true;
-                bremseButton.BackColor = System.Drawing.Color.Black;
-                bremseButton.ForeColor = System.Drawing.Color.White;
+                gasButton.BackColor = System.Drawing.Color.Black;
+                gasButton.ForeColor = System.Drawing.Color.White;
                 while (auto.GibtGas)
                 {
                     auto.GibGas();
@@ -130,8 +130,8 @@ namespace AutoSim
             if (auto != null)
             {
                 auto.GibtGas = false;
-                bremseButton.BackColor = System.Drawing.Color.White;
-                bremseButton.ForeColor = System.Drawing.Color.Black;
+                gasButton.BackColor = System.Drawing.Color.White;
+                gasButton.ForeColor = System.Drawing.Color.Black;
             }
         }
     }

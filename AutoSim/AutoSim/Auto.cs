@@ -23,6 +23,7 @@ namespace AutoSim
         public Auto(string marke, int ps)
         {
             AktueleGeschwindigkeit = 0;
+            AktuelerGang = 1;
             this.Marke = marke;
             PS = ps;
             MaxSpeed = ps / 2 * 3;
@@ -55,11 +56,11 @@ namespace AutoSim
         {
             if(AktueleGeschwindigkeit >= 0)
             {
-            AktueleGeschwindigkeit -= 10;
+            AktueleGeschwindigkeit -= 5;
             }
             else
             {
-            AktuelerGang = 0;
+            AktueleGeschwindigkeit = 0;
             }
         }
         public void Hupe()
@@ -67,7 +68,7 @@ namespace AutoSim
             SoundPlayer simpleSound = new SoundPlayer(@"..\..\..\F1theme.wav");
             simpleSound.Play();
         }
-        /*
+        
         public void UpdateGang()
         {
             if(AktueleGeschwindigkeit == 0)
@@ -75,7 +76,11 @@ namespace AutoSim
                 AktuelerGang = 1;
             }
             int temp = (int)Math.Ceiling((double)(AktueleGeschwindigkeit / 10));
-            if(temp == 5 || temp == 6 || temp == 7){
+            if(temp < 5)
+            {
+                AktuelerGang = temp;
+            }
+            else if(temp == 5 || temp == 6 || temp == 7){
                 AktuelerGang = 5;
             }
             else if(temp == 8||temp == 9||temp == 10)
@@ -88,7 +93,7 @@ namespace AutoSim
             }
             
         }
-        */
+        
 
     }
 }
