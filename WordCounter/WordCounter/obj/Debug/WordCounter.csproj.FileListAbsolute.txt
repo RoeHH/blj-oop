@@ -1,0 +1,10 @@
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.csprojAssemblyReference.cache
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.Form1.resources
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.Properties.Resources.resources
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.GenerateResource.cache
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.pdb

@@ -1,0 +1,11 @@
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\bin\Debug\AutoSim.exe.config
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\bin\Debug\AutoSim.exe
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\bin\Debug\AutoSim.pdb
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.csprojAssemblyReference.cache
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.Form1.resources
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.Properties.Resources.resources
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.csproj.GenerateResource.cache
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.csproj.CoreCompileInputs.cache
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.exe
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.pdb
+C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\bin\Debug\Resources\hupe.PNG
