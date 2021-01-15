@@ -1,0 +1,10 @@
+C:\Users\Rouven\git\blj-oop\Instanzenzähler\Instanzenzähler\obj\Debug\Instanzenzähler.csprojAssemblyReference.cache
+C:\Users\Rouven\git\blj-oop\Instanzenzähler\Instanzenzähler\obj\Debug\Instanzenzähler.Form1.resources
+C:\Users\Rouven\git\blj-oop\Instanzenzähler\Instanzenzähler\obj\Debug\Instanzenzähler.Properties.Resources.resources
+C:\Users\Rouven\git\blj-oop\Instanzenzähler\Instanzenzähler\obj\Debug\Instanzenzähler.csproj.GenerateResource.cache
+C:\Users\Rouven\git\blj-oop\Instanzenzähler\Instanzenzähler\obj\Debug\Instanzenzähler.csproj.CoreCompileInputs.cache
+C:\Users\Rouven\git\blj-oop\Instanzenzähler\Instanzenzähler\bin\Debug\Instanzenzähler.exe.config
+C:\Users\Rouven\git\blj-oop\Instanzenzähler\Instanzenzähler\bin\Debug\Instanzenzähler.exe
+C:\Users\Rouven\git\blj-oop\Instanzenzähler\Instanzenzähler\bin\Debug\Instanzenzähler.pdb
+C:\Users\Rouven\git\blj-oop\Instanzenzähler\Instanzenzähler\obj\Debug\Instanzenzähler.exe
+C:\Users\Rouven\git\blj-oop\Instanzenzähler\Instanzenzähler\obj\Debug\Instanzenzähler.pdb
