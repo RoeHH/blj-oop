@@ -8,3 +8,15 @@ C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.csproj
 C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
 C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.exe
 C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.pdb
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\NPoco.dll
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\System.Linq.Async.dll
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\System.ValueTuple.dll
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\System.Linq.Async.xml
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\bin\Debug\System.ValueTuple.xml
+C:\Users\Rouven\git\blj-oop\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CopyComplete

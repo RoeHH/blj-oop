@@ -12,6 +12,8 @@ namespace WordCounter
 {
     public partial class Form1 : Form
     {
+        
+
         public Form1()
         {
             InitializeComponent();
@@ -19,8 +21,10 @@ namespace WordCounter
 
         private void button1_Click(object sender, EventArgs e)
         {
-            w
-            outPut.Text = 
+            WordTab wrdTb = new WordTab();
+            Parser wrdCounter = new Parser(wrdTb);
+            wrdCounter.Parse(inPut.Text);
+            wrdTb.PrintTab(outPut);
         }
     }
 }
