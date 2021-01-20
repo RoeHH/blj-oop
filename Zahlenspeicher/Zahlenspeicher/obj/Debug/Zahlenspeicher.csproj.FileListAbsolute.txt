@@ -1,0 +1,10 @@
+C:\Users\Rouven\git\blj-oop\Zahlenspeicher\Zahlenspeicher\bin\Debug\Zahlenspeicher.exe.config
+C:\Users\Rouven\git\blj-oop\Zahlenspeicher\Zahlenspeicher\bin\Debug\Zahlenspeicher.exe
+C:\Users\Rouven\git\blj-oop\Zahlenspeicher\Zahlenspeicher\bin\Debug\Zahlenspeicher.pdb
+C:\Users\Rouven\git\blj-oop\Zahlenspeicher\Zahlenspeicher\obj\Debug\Zahlenspeicher.csprojAssemblyReference.cache
+C:\Users\Rouven\git\blj-oop\Zahlenspeicher\Zahlenspeicher\obj\Debug\Zahlenspeicher.Form1.resources
+C:\Users\Rouven\git\blj-oop\Zahlenspeicher\Zahlenspeicher\obj\Debug\Zahlenspeicher.Properties.Resources.resources
+C:\Users\Rouven\git\blj-oop\Zahlenspeicher\Zahlenspeicher\obj\Debug\Zahlenspeicher.csproj.GenerateResource.cache
+C:\Users\Rouven\git\blj-oop\Zahlenspeicher\Zahlenspeicher\obj\Debug\Zahlenspeicher.csproj.CoreCompileInputs.cache
+C:\Users\Rouven\git\blj-oop\Zahlenspeicher\Zahlenspeicher\obj\Debug\Zahlenspeicher.exe
+C:\Users\Rouven\git\blj-oop\Zahlenspeicher\Zahlenspeicher\obj\Debug\Zahlenspeicher.pdb
