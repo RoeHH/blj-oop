@@ -1,0 +1,10 @@
+C:\Users\Rouven\git\blj-oop\AufgabenPlaner\AufgabenPlaner\bin\Debug\AufgabenPlaner.exe.config
+C:\Users\Rouven\git\blj-oop\AufgabenPlaner\AufgabenPlaner\bin\Debug\AufgabenPlaner.exe
+C:\Users\Rouven\git\blj-oop\AufgabenPlaner\AufgabenPlaner\bin\Debug\AufgabenPlaner.pdb
+C:\Users\Rouven\git\blj-oop\AufgabenPlaner\AufgabenPlaner\obj\Debug\AufgabenPlaner.csprojAssemblyReference.cache
+C:\Users\Rouven\git\blj-oop\AufgabenPlaner\AufgabenPlaner\obj\Debug\AufgabenPlaner.Form1.resources
+C:\Users\Rouven\git\blj-oop\AufgabenPlaner\AufgabenPlaner\obj\Debug\AufgabenPlaner.Properties.Resources.resources
+C:\Users\Rouven\git\blj-oop\AufgabenPlaner\AufgabenPlaner\obj\Debug\AufgabenPlaner.csproj.GenerateResource.cache
+C:\Users\Rouven\git\blj-oop\AufgabenPlaner\AufgabenPlaner\obj\Debug\AufgabenPlaner.csproj.CoreCompileInputs.cache
+C:\Users\Rouven\git\blj-oop\AufgabenPlaner\AufgabenPlaner\obj\Debug\AufgabenPlaner.exe
+C:\Users\Rouven\git\blj-oop\AufgabenPlaner\AufgabenPlaner\obj\Debug\AufgabenPlaner.pdb
