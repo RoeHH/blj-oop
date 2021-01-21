@@ -54,6 +54,7 @@ namespace Waldbrand
             // 
             // outPut
             // 
+            this.outPut.Font = new System.Drawing.Font("Courier New", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.outPut.Location = new System.Drawing.Point(12, 161);
             this.outPut.Multiline = true;
             this.outPut.Name = "outPut";

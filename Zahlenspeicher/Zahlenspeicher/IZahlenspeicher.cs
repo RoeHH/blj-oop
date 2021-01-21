@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Zahlenspeicher
 {
-    public interface IZahlenspeicher<T> where IComparable<T>, IComparable
+    public interface IZahlenspeicher<T> where T: IComparable<T>, IComparable
     {
         void add(T n);
         bool contains(T n);

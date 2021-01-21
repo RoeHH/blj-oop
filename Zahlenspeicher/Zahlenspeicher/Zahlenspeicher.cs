@@ -18,7 +18,7 @@ namespace Zahlenspeicher
             } 
             else
             {
-                if (n < _firstElem.Value)
+                if (n.CompareTo(_firstElem.Value) < 0)
                 {
                     newElem.Next = _firstElem;
                     _firstElem.Previous = newElem;
@@ -30,7 +30,7 @@ namespace Zahlenspeicher
                     Elem<T> currentElem = _firstElem;
                     while (currentElem.Next != null) {
                         Elem<T> nextElem = currentElem.Next;
-                        if(n < nextElem.Value){
+                        if(n.CompareTo(nextElem.Value) < 0){
                             currentElem.Next = newElem;
                             nextElem.Previous = newElem;
 
@@ -59,7 +59,7 @@ namespace Zahlenspeicher
 
             Elem<T> currentElem = _firstElem;
 
-            while (currentElem.Value != n)
+            while (currentElem.Value.CompareTo(n) != 0)
             {
                 if(currentElem.Next == null)
                     return false;

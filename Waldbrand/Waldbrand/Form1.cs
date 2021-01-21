@@ -39,7 +39,7 @@ namespace Waldbrand
             {
                 _simulator.Simulation();
                 string temp = "";
-                int inBreite = 0;
+                int inBreite = 1;
                 foreach (Waldbestandteil waldstück in _waldKarte)
                 {
                     if(waldstück.GetType() == typeof(Stein))
@@ -79,5 +79,6 @@ namespace Waldbrand
         {
             _simulator._entzündungsChance = (int)entzündungInPut.Value;
         }
+
     }
 }
