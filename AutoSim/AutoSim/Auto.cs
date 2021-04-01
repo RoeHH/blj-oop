@@ -54,7 +54,9 @@ namespace AutoSim
         }
         public void Bremse()
         {
-            if(AktueleGeschwindigkeit >= 0)
+            if (!IstMotorGestartet)
+                return;
+            if (AktueleGeschwindigkeit >= 0)
             {
             AktueleGeschwindigkeit -= 5;
             }
@@ -87,7 +89,7 @@ namespace AutoSim
             {
                 AktuelerGang = 6;
             }
-            else if(temp < 11)
+            else if(AktuelerGang < 100)
             {
                 AktuelerGang = 6;
             }

@@ -9,3 +9,14 @@ C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.csproj.CoreCompile
 C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.exe
 C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.pdb
 C:\Users\Rouven\git\blj-oop\AutoSim\AutoSim\bin\Debug\Resources\hupe.PNG
+P:\git\blj-oop\AutoSim\AutoSim\bin\Debug\Resources\hupe.PNG
+P:\git\blj-oop\AutoSim\AutoSim\bin\Debug\AutoSim.exe.config
+P:\git\blj-oop\AutoSim\AutoSim\bin\Debug\AutoSim.exe
+P:\git\blj-oop\AutoSim\AutoSim\bin\Debug\AutoSim.pdb
+P:\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.csprojAssemblyReference.cache
+P:\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.Form1.resources
+P:\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.Properties.Resources.resources
+P:\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.csproj.GenerateResource.cache
+P:\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.csproj.CoreCompileInputs.cache
+P:\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.exe
+P:\git\blj-oop\AutoSim\AutoSim\obj\Debug\AutoSim.pdb
